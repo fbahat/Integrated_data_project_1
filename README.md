@@ -9,7 +9,10 @@ This project uses the following python libraries for analysis and visualization:
 
 pandas as pd numpy as np seaborn as sns matplotlib.pyplot as plt
 
-Snippets from EDA: image image image
+Snippets from EDA: ![363791019-51d50f50-46e1-4ecc-b7e6-c041ea757a49](https://github.com/user-attachments/assets/97b38c13-e917-43d5-8b2b-eca7835c996f)
+![363791227-be296a01-e63e-4f5f-826f-7d5336ba53ac](https://github.com/user-attachments/assets/ce36b00c-7487-4187-8145-6e6c23538ed8)
+![363791182-6263e472-5006-4965-bac7-dbe27d34cd18](https://github.com/user-attachments/assets/2bc8bfe5-a871-4559-be8e-99dc3652487d)
+
 
 A hypothesis test was performed to compare user ratings on different video game platforms. HO: Average user ratings of the Xbox One and PC platforms are the same. HA: Average user ratings of the Xbox One and PC platforms are not the same.
 
